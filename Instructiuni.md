@@ -31,6 +31,7 @@
   # 3.Implementarea
  
   -Dezvoltarea unui cod pentru fiecare funcționalitate planificată.
+  
   -Testăm codul pentru a ne asigura că totul funcționează corect.
   
   # 4.Lansarea
