@@ -1,9 +1,12 @@
-  # Definirea scopului
+  # Gestionarea-activitatilor-extracurriculare 
+
+  
+  # 1.Definirea scopului
    -Clarificarea scopul programului, de exemplu facilitarea înscrierii studenților în cluburi, gestionarea evenimentelor și monitorizarea participării.
   
-  # Planificarea funcționalităților 
+  # 2.Planificarea funcționalităților 
     
-  Utilizatori:
+    Utilizatori:
   
    -Studenți (înscriere, participare, feedback)
    
@@ -11,7 +14,8 @@
    
    -Administrație (rapoarte, statistică)
 
-  Funcționalități:
+    Funcționalități:
+  
    -Înregistrare și autentificare a utilizatorilor
    
    -Crearea și gestionarea cluburilor  
@@ -24,12 +28,12 @@
    
    -Rapoarte despre participare
 
-  # Implementarea
+  # 3.Implementarea
  
   -Dezvoltarea unui cod pentru fiecare funcționalitate planificată.
   -Testăm codul pentru a ne asigura că totul funcționează corect.
   
-  # Lansarea
+  # 4.Lansarea
  
   -Documentație: Oferă documentație utilizatorilor pentru utilizarea aplicației.
 
